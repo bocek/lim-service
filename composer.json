@@ -5,10 +5,10 @@
     "require": {
         "symfony/http-client": "^5.0"
     },
-"autoload": {
+    "autoload": {
     "psr-4": {
       "ServiceBox\\": "src/"
-    }
+    },
     "authors": [
         {
             "name": "Cuneyt Ekinci",
